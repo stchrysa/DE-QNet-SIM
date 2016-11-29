@@ -1,1 +1,2 @@
-# DE-QNet-SIM
+# Discrete Event Queueing Network Simulator
+
